@@ -1,0 +1,9 @@
+D:\charles\Name.Web\Name.BusinessLogic\bin\Debug\Name.BusinessLogic.dll
+D:\charles\Name.Web\Name.BusinessLogic\bin\Debug\Name.BusinessLogic.pdb
+D:\charles\Name.Web\Name.BusinessLogic\bin\Debug\Name.DataAccess.dll
+D:\charles\Name.Web\Name.BusinessLogic\bin\Debug\Name.DataAccess.pdb
+D:\charles\Name.Web\Name.BusinessLogic\obj\Debug\Name.BusinessLogic.csprojResolveAssemblyReference.cache
+D:\charles\Name.Web\Name.BusinessLogic\obj\Debug\Name.BusinessLogic.dll
+D:\charles\Name.Web\Name.BusinessLogic\obj\Debug\Name.BusinessLogic.pdb
+D:\charles\Name.Web\Name.BusinessLogic\bin\Debug\Autofac.dll
+D:\charles\Name.Web\Name.BusinessLogic\bin\Debug\Autofac.xml

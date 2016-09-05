@@ -1,0 +1,4 @@
+D:\charles\Name.Web\Name.DataAccess\bin\Debug\Name.DataAccess.dll
+D:\charles\Name.Web\Name.DataAccess\bin\Debug\Name.DataAccess.pdb
+D:\charles\Name.Web\Name.DataAccess\obj\Debug\Name.DataAccess.dll
+D:\charles\Name.Web\Name.DataAccess\obj\Debug\Name.DataAccess.pdb
